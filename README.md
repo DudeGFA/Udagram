@@ -1,7 +1,11 @@
 # PROJECT SUBMISSIONS
 **project 2**
 
-AWS elastic beanstalk endpoint: http://image-filter-udagram-dev22.us-east-1.elasticbeanstalk.com/
+Github URL(main branch): [https://github.com/DudeGFA/image-filter_Udagram](https://github.com/DudeGFA/image-filter_Udagram)
+
+Github URL(dev branch): [https://github.com/DudeGFA/image-filter_Udagram/tree/dev](https://github.com/DudeGFA/image-filter_Udagram/tree/dev)
+
+AWS elastic beanstalk endpoint: [http://image-filter-udagram-dev22.us-east-1.elasticbeanstalk.com/](http://image-filter-udagram-dev22.us-east-1.elasticbeanstalk.com/)
 
 Deployment screenshot: <img src=https://github.com/DudeGFA/image-filter_Udagram/blob/main/deployment_screenshots/deployment%20screenshot.png >
 
