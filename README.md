@@ -2,6 +2,7 @@
 **project 2**
 
 AWS elastic beanstalk endpoint: http://image-filter-udagram-dev22.us-east-1.elasticbeanstalk.com/
+
 Deployment screenshot: <img src=https://github.com/DudeGFA/image-filter_Udagram/blob/main/deployment_screenshots/deployment%20screenshot.png >
 
 # Udagram Image Filtering Microservice
