@@ -7,6 +7,8 @@ Github URL(dev branch): [https://github.com/DudeGFA/image-filter_Udagram/tree/de
 
 AWS elastic beanstalk endpoint: [http://image-filter-udagram-dev22.us-east-1.elasticbeanstalk.com/](http://image-filter-udagram-dev22.us-east-1.elasticbeanstalk.com/)
 
+> Due to the cost of running AWS services and the limited quota provided by udacity's AWS student account, the server is currently down.
+
 Deployment screenshot: <img src=https://github.com/DudeGFA/image-filter_Udagram/blob/main/deployment_screenshots/deployment%20screenshot.png >
 
 # Udagram Image Filtering Microservice
